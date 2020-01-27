@@ -1,0 +1,25 @@
+.header {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	background: #248;
+	color: #fff;
+}
+.header_bunner {
+	height: 40px;
+	border-bottom: 1px solid#46a;
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.header_main {
+	max-width: 640px;
+	margin-left: 60px;
+}
+.site_title {
+	margin: 10px 0;
+}
+.header_nav {
+	width: 100%;
+}

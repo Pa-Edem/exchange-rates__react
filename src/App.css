@@ -1,0 +1,22 @@
+.app {
+	position: relative;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.flex_wrap {
+	width: 80%;
+	margin: 0 auto;
+}
+.rate {
+	height: 100%;
+	width: 100%;
+	flex-grow: 1;
+	padding: 10px 0;
+	display: flex;
+	flex-direction: column;
+}

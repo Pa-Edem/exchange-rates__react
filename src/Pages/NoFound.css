@@ -1,0 +1,37 @@
+.nofound_wrap {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: #424344;
+	color: #acd;
+}
+.nofound_num {
+	font-family: Verdana, sans-serif;
+	font-size: calc(8vw + 16vh);
+}
+.nofound_title {
+	font-size: calc(2vw + 4vh);
+}
+.nofound_btn {
+	width: 180px;
+	height: 60px;
+	background: #acd;
+}
+.nofound_link {
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: 60px;
+	color: #113;
+	text-decoration: none;
+	font-size: 24px;
+}
+.nofound_link:hover {
+	background: #bde;
+}
